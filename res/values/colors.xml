@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color> <!-- on secondary -->
+    <color name="white">#FFFFFFFF</color> <!-- on primary -->
+    <color name="light_blue">#072331</color>
+    <color name="yellow">#C5AA37</color>
+    <color name="dark_yellow">#827024</color>
+</resources>
